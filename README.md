@@ -1,4 +1,4 @@
-# \ Gerenciador de Poltronas
+## Gerenciador de Poltronas
 
 Este é um sistema de gerenciamento de poltronas desenvolvido em C. Ele gerencia as poltronas disponíveis em cada sessão do cinema, informando quais poltronas estão disponíveis/ocupadas permitindo a reserva da poltrona livre.
 
